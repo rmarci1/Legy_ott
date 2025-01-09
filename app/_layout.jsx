@@ -15,6 +15,12 @@ const Rootlayout = () => {
     "Poppins-Regular": require("../assets/fonts/Poppins-Regular.ttf"),
     "Poppins-SemiBold": require("../assets/fonts/Poppins-SemiBold.ttf"),
     "Poppins-Thin": require("../assets/fonts/Poppins-Thin.ttf"),
+    "Roboto-Black" : require("../assets/fonts/Roboto-Black.ttf"),
+    "Roboto-Bold" : require("../assets/fonts/Roboto-Bold.ttf"),
+    "Roboto-Light" : require("../assets/fonts/Roboto-Light.ttf"),
+    "Roboto-Medium" : require("../assets/fonts/Roboto-Medium.ttf"),
+    "Roboto-Regular" : require("../assets/fonts/Roboto-Regular.ttf"),
+    "Roboto-Thin" : require("../assets/fonts/Roboto-Thin.ttf"),
   })
   useEffect(() => {
     if(error) throw error
